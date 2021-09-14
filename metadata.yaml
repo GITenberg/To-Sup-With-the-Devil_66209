@@ -1,11 +1,16 @@
 _repo: To-Sup-With-the-Devil_66209
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66209-h/images/cover.jpg
 creator:
   author:
     agent_name: Scholnick, Myron I.
     gutenberg_agent_id: '53685'
     url: http://www.gutenberg.org/2009/agents/53685
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66209#To-Sup-With-the-Devil
 gutenberg_issued: '2021-09-03'
 identifiers:
   gutenberg: '66209'
